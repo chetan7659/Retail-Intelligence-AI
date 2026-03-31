@@ -1,7 +1,7 @@
 # RetailMind AI 🧠
 
 **AI-powered retail market intelligence copilot** — demand forecasting, pricing intelligence, competitor analysis, and market chat powered by Meta Llama 3.1 and live web data.
-
+Demo Link : https://retail-intelligence-ai.vercel.app/
 ---
 
 ## 🚀 Tech Stack
