@@ -56,7 +56,7 @@ retailmind-ai/
 │   ├── (dashboard)/
 │   │   ├── layout.jsx          ← Sidebar navigation
 │   │   ├── dashboard/page.jsx  ← Overview + quick actions
-│   │   ├── chat/page.jsx       ← AI market chat
+│   │   ├── chat/page.jsx       ← AI market Chat
 │   │   ├── analyze/
 │   │   │   ├── demand/page.jsx ← Demand forecasting
 │   │   │   └── pricing/page.jsx← Pricing intelligence
@@ -79,22 +79,7 @@ retailmind-ai/
 └── .env.example                ← Environment variable template
 ```
 
----
 
-## 🚀 Deploy to Render
-
-1. Push this repo to GitHub
-2. Go to https://render.com → New Web Service
-3. Connect your GitHub repo
-4. Render auto-detects `render.yaml` — just add your env vars:
-   - `NEXT_PUBLIC_SUPABASE_URL`
-   - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-   - `SUPABASE_SERVICE_ROLE_KEY`
-   - `HUGGINGFACE_API_KEY`
-   - `SERP_API_KEY`
-5. Deploy — your live link is ready in ~5 minutes!
-
----
 
 ## ✨ Features
 
