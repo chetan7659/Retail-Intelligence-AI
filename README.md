@@ -13,7 +13,7 @@
 | AI Model | Meta Llama 3.1 8B Instruct (HuggingFace) |
 | Live Market Data | SerpAPI |
 | Styling | Tailwind CSS |
-| Deployment | Render |
+| Deployment | vercel |
 
 ---
 
